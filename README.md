@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your Lane Detection project:
-
----
-
 # Lane Detection with OpenCV and Python
 
 ## Overview
@@ -114,10 +110,3 @@ The video lane detection process is similar to the image lane detection, but it 
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides the necessary steps and explanations to set up and run your Lane Detection project!
