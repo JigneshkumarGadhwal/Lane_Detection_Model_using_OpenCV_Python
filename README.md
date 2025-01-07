@@ -27,7 +27,7 @@ To run the project, you will need the following Python libraries:
 
 Install the dependencies using the following command:
 
-```bash
+```bash    
 pip install opencv-python numpy matplotlib
 ```
 
